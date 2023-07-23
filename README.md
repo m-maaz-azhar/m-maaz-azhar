@@ -18,4 +18,3 @@
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-maaz-azhar&show_icons=true&locale=en&layout=compact" alt="m-maaz-azhar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-maaz-azhar&" alt="m-maaz-azhar" /></p>
-![](https://komarev.com/ghpvc/?username=m-maaz-azhar)
