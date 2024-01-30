@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Maaz Azhar</h1>
-<h3 align="center">(Full-Stack Web and Mobile App Developer)</h3>
+<h1 align="center">Hi 👋, I'm M Maaz Azhar</h1>
+<h3 align="center">(Full-Stack Developer & AI Enthusiast)</h3>
 
 - 📫 How to reach me **maazazher28@gmail.com**
 
