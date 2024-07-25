@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M Maaz Azhar</h1>
 <h3 align="center">(Software Engineer & AI Enthusiast)</h3>
 
-- 📫 How to reach me **maazazher28@gmail.com**
+📫 How to reach me **maazazher28@gmail.com**
 
 <h3 align="left">Connect with me here 👇</h3>
 <p align="left">
