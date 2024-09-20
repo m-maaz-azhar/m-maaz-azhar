@@ -2,7 +2,7 @@
 <h3 align="center">(Software Engineer & AI Enthusiast)</h3>
 
 <div align="center">
-  <img src="./giphy.gif" />
+  <img src="./giphy.gif" width="250"/>
 </div>
 <br/>
 <p align="center">📫 Feel free to email me at: <strong>maazazher28@gmail.com</strong></p>
