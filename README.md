@@ -10,3 +10,5 @@
 <a href="https://www.hackerrank.com/maaz_azher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maaz_azher" height="30" width="40" /></a>
 <a href="https://twitter.com/m_maaz_azhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_maaz_azhar" height="30" width="40" /></a>
 </p>
+
+<img src="./giphy.gif" />
